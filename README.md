@@ -1,2 +1,2 @@
 # Calculator-plus-plus
-TRTPO Project
+Проект по учебной дисциплине ТРиТПО.
